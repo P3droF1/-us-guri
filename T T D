@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+   <center><title> melhores músicas</title>
+    <h1>Melhor que isso não existe</h1>
+    <hr></hr>
+</head>
+     <body>
+
+        <ul>
+            <li>
+                <h3>==============================<u>Yall want a single</u><mark>(Korn)</mark>==============================<a href="https://www.youtube.com/watch?v=Exaw0oa24AY">  Link</a></h3>
+            </li>
+            <li>
+               <h3>==============================<u>Firestarers</u><mark>(Sawyer Hill)</mark>==============================<a href="https://www.youtube.com/watch?v=x_HBLd7L1-g">  Link</a></h3>
+            </li>
+            <li>
+                <h3>==============================<u>Break stuff</u><mark>(Limp Bizkit)</mark>==============================<a href="https://www.youtube.com/watch?v=FtOnSQvz8yc">  Link</a></h3>
+            </li> 
+            <li>
+               <h3>==============================<u>Hotel California</u><mark>(Eagles)</mark>=============================<a href="https://www.youtube.com/watch?v=BciS5krYL80">  Link</a></h3> 
+            </li>
+            <li>
+                <h3>=============================<u>Aqula</u><mark>(Raimundos)</mark>=============================<a href="https://www.youtube.com/watch?v=QztJZef1Yy8">  Link</a></h3>
+            </li>
+            <li>
+                <h3>==============================<u>Eu quero ver o oco</u><mark>(Raimundos)</mark>==============================<a href="https://www.youtube.com/watch?v=u8AMHXUJRD8">  Link</a></h3>
+                
+            <li>
+                <h3>================================<u>Me lambe</u><mark>(Raimundos)</mark>==============================<a href="https://www.youtube.com/watch?v=g0QKf3VPoYY">  Link</a></h3>
+            </li>
+            <li>
+                <h3>================================<u>Onde Flor</u><mark>(O Grilo)</mark>================================<a href="https://www.youtube.com/watch?v=5NVOLy4SktY">  Link</a></h3>
+            </li>
+            <li>
+                <h3>================================<u>Mulher de fases</u><mark>(Raimundos)</mark>================================<a href="https://www.youtube.com/watch?v=ehCkyxt06SQ">  Link</a></h3>
+            </li>
+        </ul>
+
+        <style>
+        mark{
+
+            background-color: lightcoral;
+        }
+        a{
+            color: lightcoral;
+        }
+
+        body{
+
+            background-color: bisque;
+        }
+
+
+        </style>
+     </body>
+     <feet>
+        <h4>Estes são apenas alguns exemplos do melhor estilo músical que existe... o <em>ROCK</em></h4>
+     </feet>
+    </center> 
+</html>
